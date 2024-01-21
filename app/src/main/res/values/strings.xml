@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Day19Assignment</string>
+    <string name="exam">Exam</string>
+    <string name="question_1">QUESTION 1</string>
+    <string name="question_2">QUESTION 2</string>
+    <string name="question_3">QUESTION 3</string>
+    <string name="submit">Submit</string>
+</resources>
